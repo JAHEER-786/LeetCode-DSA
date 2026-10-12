@@ -29,4 +29,8 @@ My solutions to LeetCode problems in Java, focused on Data Structures and Algori
 |  |
 | ------- |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/JAHEER-786/LeetCode-DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+## Math
+|  |
+| ------- |
+| [0507-perfect-number](https://github.com/JAHEER-786/LeetCode-DSA/tree/master/0507-perfect-number) |
 <!---LeetCode Topics End-->
