@@ -34,9 +34,14 @@ My solutions to LeetCode problems in Java, focused on Data Structures and Algori
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/JAHEER-786/LeetCode-DSA/tree/master/0050-powx-n) |
 | [0507-perfect-number](https://github.com/JAHEER-786/LeetCode-DSA/tree/master/0507-perfect-number) |
 ## Sorting
 |  |
 | ------- |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/JAHEER-786/LeetCode-DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/JAHEER-786/LeetCode-DSA/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
