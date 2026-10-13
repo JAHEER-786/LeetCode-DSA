@@ -6,6 +6,7 @@ My solutions to LeetCode problems in Java, focused on Data Structures and Algori
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/JAHEER-786/LeetCode-DSA/tree/master/0078-subsets) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/JAHEER-786/LeetCode-DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/JAHEER-786/LeetCode-DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/JAHEER-786/LeetCode-DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -20,6 +21,7 @@ My solutions to LeetCode problems in Java, focused on Data Structures and Algori
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/JAHEER-786/LeetCode-DSA/tree/master/0078-subsets) |
 | [0190-reverse-bits](https://github.com/JAHEER-786/LeetCode-DSA/tree/master/0190-reverse-bits) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/JAHEER-786/LeetCode-DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Hash Table
@@ -44,4 +46,8 @@ My solutions to LeetCode problems in Java, focused on Data Structures and Algori
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/JAHEER-786/LeetCode-DSA/tree/master/0050-powx-n) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/JAHEER-786/LeetCode-DSA/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
