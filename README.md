@@ -32,12 +32,14 @@ My solutions to LeetCode problems in Java, focused on Data Structures and Algori
 |  |
 | ------- |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/JAHEER-786/LeetCode-DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/JAHEER-786/LeetCode-DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/JAHEER-786/LeetCode-DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Math
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/JAHEER-786/LeetCode-DSA/tree/master/0050-powx-n) |
 | [0507-perfect-number](https://github.com/JAHEER-786/LeetCode-DSA/tree/master/0507-perfect-number) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/JAHEER-786/LeetCode-DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Sorting
 |  |
 | ------- |
