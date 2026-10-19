@@ -9,6 +9,7 @@ My solutions to LeetCode problems in Java, focused on Data Structures and Algori
 | [0001-two-sum](https://github.com/JAHEER-786/LeetCode-DSA/tree/master/0001-two-sum) |
 | [0078-subsets](https://github.com/JAHEER-786/LeetCode-DSA/tree/master/0078-subsets) |
 | [0229-majority-element-ii](https://github.com/JAHEER-786/LeetCode-DSA/tree/master/0229-majority-element-ii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/JAHEER-786/LeetCode-DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/JAHEER-786/LeetCode-DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/JAHEER-786/LeetCode-DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/JAHEER-786/LeetCode-DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -50,6 +51,7 @@ My solutions to LeetCode problems in Java, focused on Data Structures and Algori
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/JAHEER-786/LeetCode-DSA/tree/master/0229-majority-element-ii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/JAHEER-786/LeetCode-DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/JAHEER-786/LeetCode-DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Recursion
 |  |
@@ -131,4 +133,8 @@ My solutions to LeetCode problems in Java, focused on Data Structures and Algori
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/JAHEER-786/LeetCode-DSA/tree/master/0229-majority-element-ii) |
+## Binary Search
+|  |
+| ------- |
+| [2089-find-target-indices-after-sorting-array](https://github.com/JAHEER-786/LeetCode-DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 <!---LeetCode Topics End-->
