@@ -8,6 +8,7 @@ My solutions to LeetCode problems in Java, focused on Data Structures and Algori
 | ------- |
 | [0001-two-sum](https://github.com/JAHEER-786/LeetCode-DSA/tree/master/0001-two-sum) |
 | [0078-subsets](https://github.com/JAHEER-786/LeetCode-DSA/tree/master/0078-subsets) |
+| [0228-summary-ranges](https://github.com/JAHEER-786/LeetCode-DSA/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/JAHEER-786/LeetCode-DSA/tree/master/0229-majority-element-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/JAHEER-786/LeetCode-DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/JAHEER-786/LeetCode-DSA/tree/master/2778-sum-of-squares-of-special-elements) |
