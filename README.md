@@ -7,6 +7,7 @@ My solutions to LeetCode problems in Java, focused on Data Structures and Algori
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/JAHEER-786/LeetCode-DSA/tree/master/0001-two-sum) |
+| [0041-first-missing-positive](https://github.com/JAHEER-786/LeetCode-DSA/tree/master/0041-first-missing-positive) |
 | [0078-subsets](https://github.com/JAHEER-786/LeetCode-DSA/tree/master/0078-subsets) |
 | [0228-summary-ranges](https://github.com/JAHEER-786/LeetCode-DSA/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/JAHEER-786/LeetCode-DSA/tree/master/0229-majority-element-ii) |
@@ -33,6 +34,7 @@ My solutions to LeetCode problems in Java, focused on Data Structures and Algori
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/JAHEER-786/LeetCode-DSA/tree/master/0001-two-sum) |
+| [0041-first-missing-positive](https://github.com/JAHEER-786/LeetCode-DSA/tree/master/0041-first-missing-positive) |
 | [0229-majority-element-ii](https://github.com/JAHEER-786/LeetCode-DSA/tree/master/0229-majority-element-ii) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/JAHEER-786/LeetCode-DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/JAHEER-786/LeetCode-DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
