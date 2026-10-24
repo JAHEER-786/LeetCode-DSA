@@ -51,6 +51,7 @@ My solutions to LeetCode problems in Java, focused on Data Structures and Algori
 | ------- |
 | [0050-powx-n](https://github.com/JAHEER-786/LeetCode-DSA/tree/master/0050-powx-n) |
 | [0507-perfect-number](https://github.com/JAHEER-786/LeetCode-DSA/tree/master/0507-perfect-number) |
+| [2409-count-days-spent-together](https://github.com/JAHEER-786/LeetCode-DSA/tree/master/2409-count-days-spent-together) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/JAHEER-786/LeetCode-DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Sorting
 |  |
@@ -132,6 +133,7 @@ My solutions to LeetCode problems in Java, focused on Data Structures and Algori
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/JAHEER-786/LeetCode-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/JAHEER-786/LeetCode-DSA/tree/master/0165-compare-version-numbers) |
+| [2409-count-days-spent-together](https://github.com/JAHEER-786/LeetCode-DSA/tree/master/2409-count-days-spent-together) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/JAHEER-786/LeetCode-DSA/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## String Matching
 |  |
