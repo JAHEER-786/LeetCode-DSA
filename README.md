@@ -11,6 +11,7 @@ My solutions to LeetCode problems in Java, focused on Data Structures and Algori
 | [0078-subsets](https://github.com/JAHEER-786/LeetCode-DSA/tree/master/0078-subsets) |
 | [0228-summary-ranges](https://github.com/JAHEER-786/LeetCode-DSA/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/JAHEER-786/LeetCode-DSA/tree/master/0229-majority-element-ii) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/JAHEER-786/LeetCode-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/JAHEER-786/LeetCode-DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/JAHEER-786/LeetCode-DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/JAHEER-786/LeetCode-DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -38,6 +39,7 @@ My solutions to LeetCode problems in Java, focused on Data Structures and Algori
 | [0001-two-sum](https://github.com/JAHEER-786/LeetCode-DSA/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/JAHEER-786/LeetCode-DSA/tree/master/0041-first-missing-positive) |
 | [0229-majority-element-ii](https://github.com/JAHEER-786/LeetCode-DSA/tree/master/0229-majority-element-ii) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/JAHEER-786/LeetCode-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/JAHEER-786/LeetCode-DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/JAHEER-786/LeetCode-DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Greedy
@@ -57,6 +59,7 @@ My solutions to LeetCode problems in Java, focused on Data Structures and Algori
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/JAHEER-786/LeetCode-DSA/tree/master/0229-majority-element-ii) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/JAHEER-786/LeetCode-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/JAHEER-786/LeetCode-DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/JAHEER-786/LeetCode-DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Recursion
@@ -128,6 +131,7 @@ My solutions to LeetCode problems in Java, focused on Data Structures and Algori
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/JAHEER-786/LeetCode-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/JAHEER-786/LeetCode-DSA/tree/master/0165-compare-version-numbers) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/JAHEER-786/LeetCode-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 ## String
 |  |
 | ------- |
@@ -162,6 +166,7 @@ My solutions to LeetCode problems in Java, focused on Data Structures and Algori
 ## Binary Search
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/JAHEER-786/LeetCode-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/JAHEER-786/LeetCode-DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 ## DP on Trees
 |  |
