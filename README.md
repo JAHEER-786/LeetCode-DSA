@@ -9,6 +9,7 @@ My solutions to LeetCode problems in Java, focused on Data Structures and Algori
 | [0001-two-sum](https://github.com/JAHEER-786/LeetCode-DSA/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/JAHEER-786/LeetCode-DSA/tree/master/0041-first-missing-positive) |
 | [0078-subsets](https://github.com/JAHEER-786/LeetCode-DSA/tree/master/0078-subsets) |
+| [0204-count-primes](https://github.com/JAHEER-786/LeetCode-DSA/tree/master/0204-count-primes) |
 | [0228-summary-ranges](https://github.com/JAHEER-786/LeetCode-DSA/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/JAHEER-786/LeetCode-DSA/tree/master/0229-majority-element-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/JAHEER-786/LeetCode-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -21,6 +22,7 @@ My solutions to LeetCode problems in Java, focused on Data Structures and Algori
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/JAHEER-786/LeetCode-DSA/tree/master/0204-count-primes) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/JAHEER-786/LeetCode-DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Divide and Conquer
 |  |
@@ -52,6 +54,7 @@ My solutions to LeetCode problems in Java, focused on Data Structures and Algori
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/JAHEER-786/LeetCode-DSA/tree/master/0050-powx-n) |
+| [0204-count-primes](https://github.com/JAHEER-786/LeetCode-DSA/tree/master/0204-count-primes) |
 | [0507-perfect-number](https://github.com/JAHEER-786/LeetCode-DSA/tree/master/0507-perfect-number) |
 | [2409-count-days-spent-together](https://github.com/JAHEER-786/LeetCode-DSA/tree/master/2409-count-days-spent-together) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/JAHEER-786/LeetCode-DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -172,4 +175,20 @@ My solutions to LeetCode problems in Java, focused on Data Structures and Algori
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/JAHEER-786/LeetCode-DSA/tree/master/0543-diameter-of-binary-tree) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/JAHEER-786/LeetCode-DSA/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/JAHEER-786/LeetCode-DSA/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/JAHEER-786/LeetCode-DSA/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/JAHEER-786/LeetCode-DSA/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
