@@ -13,6 +13,7 @@ My solutions to LeetCode problems in Java, focused on Data Structures and Algori
 | [0228-summary-ranges](https://github.com/JAHEER-786/LeetCode-DSA/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/JAHEER-786/LeetCode-DSA/tree/master/0229-majority-element-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/JAHEER-786/LeetCode-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0682-baseball-game](https://github.com/JAHEER-786/LeetCode-DSA/tree/master/0682-baseball-game) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/JAHEER-786/LeetCode-DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/JAHEER-786/LeetCode-DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/JAHEER-786/LeetCode-DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -89,6 +90,7 @@ My solutions to LeetCode problems in Java, focused on Data Structures and Algori
 | [0145-binary-tree-postorder-traversal](https://github.com/JAHEER-786/LeetCode-DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/JAHEER-786/LeetCode-DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/JAHEER-786/LeetCode-DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0682-baseball-game](https://github.com/JAHEER-786/LeetCode-DSA/tree/master/0682-baseball-game) |
 ## Tree
 |  |
 | ------- |
@@ -203,4 +205,8 @@ My solutions to LeetCode problems in Java, focused on Data Structures and Algori
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/JAHEER-786/LeetCode-DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/JAHEER-786/LeetCode-DSA/tree/master/0232-implement-queue-using-stacks) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/JAHEER-786/LeetCode-DSA/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
