@@ -87,6 +87,7 @@ My solutions to LeetCode problems in Java, focused on Data Structures and Algori
 | [0094-binary-tree-inorder-traversal](https://github.com/JAHEER-786/LeetCode-DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/JAHEER-786/LeetCode-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/JAHEER-786/LeetCode-DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0225-implement-stack-using-queues](https://github.com/JAHEER-786/LeetCode-DSA/tree/master/0225-implement-stack-using-queues) |
 ## Tree
 |  |
 | ------- |
@@ -191,4 +192,12 @@ My solutions to LeetCode problems in Java, focused on Data Structures and Algori
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/JAHEER-786/LeetCode-DSA/tree/master/0204-count-primes) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/JAHEER-786/LeetCode-DSA/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/JAHEER-786/LeetCode-DSA/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
