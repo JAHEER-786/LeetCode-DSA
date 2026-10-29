@@ -15,6 +15,7 @@ class Solution {
                 return new int[]{i,map.get(diff)};
             }
         }
+        
         return new int[]{};
     }
 }
